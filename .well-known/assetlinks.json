@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.luisbarria.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["28:A4:03:E6:A6:8F:36:F3:85:83:DB:12:86:A9:2D:AC:9F:B8:D1:FA:26:44:6D:12:F7:AC:A3:1A:6F:C7:B4:E7"]
+    }
+  }]
+  
